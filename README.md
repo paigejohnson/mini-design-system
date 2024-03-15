@@ -1,2 +1,2 @@
-# mini-design-system
+# paigejohnson
 HCI 472: Mini Design System Final Project
